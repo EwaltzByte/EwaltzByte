@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ethan, But you cal call me Ewaltz.</h1>
+<h1 align="center">Hi 👋, I'm Ewaltz, But you cal call me Ethan.</h1>
 <h3 align="center">I work a lot in HTML, JS and CSS</h3>
 
 <details>
-  <summary>Jecta's github page</summary>
+  <summary>Ethan's github page</summary>
 
 <p>
 
@@ -45,3 +45,6 @@
 </details>
 
 ---
+<h1>
+To my knowledge, JetaIne made this api.
+  <h1/>
