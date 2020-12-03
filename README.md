@@ -44,6 +44,3 @@
 </details>
 
 ---
-<h1>
-To my knowledge, JetaIne made this api.
-  <h1/>
